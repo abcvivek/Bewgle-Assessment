@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Bewgle-Assessment/static/css/main.44154a4a.chunk.css",
+    "main.js": "/Bewgle-Assessment/static/js/main.9ef55caa.chunk.js",
+    "main.js.map": "/Bewgle-Assessment/static/js/main.9ef55caa.chunk.js.map",
+    "runtime-main.js": "/Bewgle-Assessment/static/js/runtime-main.8963d005.js",
+    "runtime-main.js.map": "/Bewgle-Assessment/static/js/runtime-main.8963d005.js.map",
+    "static/js/2.8c7cf624.chunk.js": "/Bewgle-Assessment/static/js/2.8c7cf624.chunk.js",
+    "static/js/2.8c7cf624.chunk.js.map": "/Bewgle-Assessment/static/js/2.8c7cf624.chunk.js.map",
+    "index.html": "/Bewgle-Assessment/index.html",
+    "precache-manifest.812797f3f3817dfe35d8aee8218e870b.js": "/Bewgle-Assessment/precache-manifest.812797f3f3817dfe35d8aee8218e870b.js",
+    "service-worker.js": "/Bewgle-Assessment/service-worker.js",
+    "static/css/main.44154a4a.chunk.css.map": "/Bewgle-Assessment/static/css/main.44154a4a.chunk.css.map",
+    "static/js/2.8c7cf624.chunk.js.LICENSE.txt": "/Bewgle-Assessment/static/js/2.8c7cf624.chunk.js.LICENSE.txt",
+    "static/media/Illustration1.png": "/Bewgle-Assessment/static/media/Illustration1.7cd92069.png",
+    "static/media/Illustration2.png": "/Bewgle-Assessment/static/media/Illustration2.dfb2ea3c.png",
+    "static/media/Illustration3.png": "/Bewgle-Assessment/static/media/Illustration3.df92c811.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8963d005.js",
+    "static/js/2.8c7cf624.chunk.js",
+    "static/css/main.44154a4a.chunk.css",
+    "static/js/main.9ef55caa.chunk.js"
+  ]
+}
