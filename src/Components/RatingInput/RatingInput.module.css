@@ -1,0 +1,15 @@
+.Heading {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.Rating {
+    margin : 20px auto;
+}
+
+.Status {
+    background-color: white;
+    padding: 10px;
+    color: black;
+    border: 1px solid black;
+}

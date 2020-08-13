@@ -1,0 +1,33 @@
+.Container {
+    display: flex;
+    margin: 10px;
+}
+
+.Side {
+    flex: 1;
+    padding: 10px;
+}
+
+.Middle {
+    flex: 2;
+    padding: 10px;
+}
+
+.Right {
+   flex: 1;
+   padding: 10px;
+   font-weight: bold;
+}
+
+.Bar {
+    height: 10px;
+    width: 10%;
+    background-color:black;
+    border-radius: 5px;
+}
+
+@media(max-width:600px) {
+    .Side {
+       flex: 2;
+    }
+}

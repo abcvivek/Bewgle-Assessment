@@ -1,0 +1,32 @@
+.Image1 {
+    position: fixed;
+    left: -5%;
+    bottom: -5%;
+    width: 20%;
+    z-index: -1;
+}
+
+.Image2 {
+    position: fixed;
+    right: -5%;
+    top: -10%;
+    width: 20%;
+    z-index: -1;
+}
+
+.Image3 {
+    position: fixed;
+    right: -4%;
+    bottom: 15%;
+    width: 10%;
+    z-index: -1;
+}
+
+.Image4 {
+    position: fixed;
+    right : 4%;
+    bottom: 35%;
+    width: 3%;
+    z-index: -1;
+}
+

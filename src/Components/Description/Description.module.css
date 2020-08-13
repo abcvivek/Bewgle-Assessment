@@ -1,0 +1,11 @@
+.Text {
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 1px;
+    text-align: justify;
+}
+
+.Heading {
+    font-weight: bold;
+    font-size: 20px;
+}

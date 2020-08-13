@@ -1,0 +1,55 @@
+.Container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+
+.SideContainer {
+    display: flex;
+    flex-direction: column;
+}
+  
+.TopImage {
+   flex: 1;
+   flex-basis: 60%;
+}
+  
+.Tags {
+    flex: 1;
+    padding: 5px;
+}
+  
+.FeatureRatings {
+    flex: 1;
+    padding: 5px;
+}
+
+.Description {
+    flex: 2;
+    padding: 5px;
+}
+   
+.ReviewRating {
+    flex: 2;
+    padding: 5px;
+}
+   
+.RatingInput {
+    flex: 1;
+    padding: 5px;
+    margin-left : -50px;
+}
+
+@media(max-width : 1000px) {
+    .Container {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .RatingInput {
+        flex: 1;
+        padding: 5px;
+        margin-left : 0px;
+    }
+    
+}
+  
